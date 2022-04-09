@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.yazidproject</groupId>
-    <artifactId>docker-jenkins-integration-sample</artifactId>
+    <artifactId>hello-world-docker-sample</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -14,7 +14,7 @@
     </properties>
 
     <build>
-        <finalName>docker-jenkins-integration-sample</finalName>
+        <finalName>hello-world-docker-sample</finalName>
     </build>
 
 </project>
