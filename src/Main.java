@@ -4,8 +4,6 @@ public class Main {
 	// write your code here
         System.out.println("Hello World!");
         System.out.println("Thank you");
-        System.out.println("Thank you sir");
-        System.out.println("you welcome!!!");
         System.out.println("Created by Yazid!!");
 
         /*
