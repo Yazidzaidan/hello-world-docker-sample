@@ -5,7 +5,7 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("Thank you");
         System.out.println("Created by Yazid!!");
-        System.out.println("Oke fine");
+        System.out.println("Oke fine BYE");
 
         /*
         int count = 0;
