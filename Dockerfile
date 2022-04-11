@@ -2,7 +2,7 @@ FROM openjdk:17
 
 RUN mkdir /app
 
-COPY out/production/HelloWorldDocker/ /app
+COPY src/ /app
 
 WORKDIR /app
 
