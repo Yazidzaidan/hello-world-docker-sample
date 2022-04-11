@@ -2,7 +2,7 @@ FROM openjdk:17
 
 RUN mkdir /app
 
-COPY src/ /app
+COPY target/classes/ /app
 
 WORKDIR /app
 
